@@ -8,8 +8,8 @@
 
 ## 如何使用仓库中的资源？
 
- 确保你有一个安装了`Jupyter`的`conda`环境，并完成了`R`和 R 包`IRkernel`的安装。
- 下载笔记本文件，激活你的`conda`环境，并在储存笔记本文件的位置启动`jupyter notebook`。
+ 确保你有一个安装了 Jupyter 的 conda 环境，并完成了 R 和 R 包`IRkernel`的安装。
+ 下载笔记本文件，激活你的 conda 环境，并在储存笔记本文件的位置启动 jupyter。
  在此基础上，若用于展示(如教学)，可通过安装RISE插件实现更好的放映。
 
 ## 依赖项
@@ -21,11 +21,11 @@
 
 # Introduction (English Ver.)
 
- Jupyter slides for undergraduate students in Biostatistics to learn R
+ Jupyter slides for undergraduate students in Biostatistics to learn R.
 
 ## What can you learn?
 
- Foundational skills for working with data in R
+ Foundational skills for working with data in R.
 
 ## How do I use it?
 
